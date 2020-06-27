@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;semiproject&apos;&#x0D;&#x0A;- Original project: &apos;semiproject&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jquery-3.5.1.js&#x0D;&#x0A;     jquery-3.5.1.min.js&#x0D;&#x0A;     jquery-ui.css&#x0D;&#x0A;     jquery-ui.js&#x0D;&#x0A;     jquery-ui.min.css&#x0D;&#x0A;     jquery-ui.min.js" description="Delete elements" element1="WebContent/jquery-ui.js" element2="WebContent/jquery-ui.min.css" element3="WebContent/jquery-ui.min.js" element4="WebContent/jquery-3.5.1.min.js" element5="WebContent/jquery-3.5.1.js" element6="WebContent/jquery-ui.css" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="6" stamp="1593084321931" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,33 @@
+/tips/book.do=com.mymvc.tips.controller.BookController2
+/tips/travel.do=com.mymvc.tips.controller.TravelController2
+/tips/bookForm2.do=com.mymvc.tips.controller.BookFormController2
+/tips/travelForm2.do=com.mymvc.tips.controller.TravelFormController2
+/tips/menuform.do=com.mymvc.tips.controller.MenuFormController
+/tips/menu.do=com.mymvc.tips.controller.MenuController
+
+#pd
+/pd/pdWrite.do = com.mymvc.pd.controller.PdWriteController
+/pd/pdWrite_ok.do = com.mymvc.pd.controller.PdWriteOkController
+/pd/pdList.do = com.mymvc.pd.controller.PdListController
+/pd/pdDetail.do = com.mymvc.pd.controller.PdDetailController
+/pd/pdEdit.do = com.mymvc.pd.controller.PdEditController
+/pd/pdEdit_ok.do= com.mymvc.pd.controller.PdEditOkController
+/pd/pdDelete.do = com.mymvc.pd.controller.PdDeleteController
+
+#book
+/book/bookList.do=com.mymvc.book.controller.BookListController
+/book/bookWrite.do=com.mymvc.book.controller.BookWriteController
+/book/bookDetail.do=com.mymvc.book.controller.BookDetailController
+/book/bookWrite_ok.do=com.mymvc.book.controller.BookWriteOkController
+
+#board
+/board/write.do =com.mymvc.board.controller.WriteController
+/board/write_ok.do = com.mymvc.board.controller.WriteOkController
+/board/list.do = com.mymvc.board.controller.ListController
+/board/countUpdate.do = com.mymvc.board.controller.CountUpdateController
+/board/detail.do = com.mymvc.board.controller.DetailController
+/board/edit.do = com.mymvc.board.controller.EditController
+/board/edit_ok.do = com.mymvc.board.controller.EditOkController
+/board/delete.do = com.mymvc.board.controller.DeleteController
+/board/delete_ok.do = com.mymvc.board.controller.DeleteOkController
+/index.do = com.mymvc.main.controller.IndexController

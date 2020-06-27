@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\lecture\workspace list\semiproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3028028032.index
+\semiproject\src
+C:\lecture\workspace list\semiproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2899202854.index
+\semiproject\src
+C:\lecture\workspace list\semiproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1550091059.index
+\semiproject\src
+C:\lecture\workspace list\semiproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\268469130.index
+\semiproject\src

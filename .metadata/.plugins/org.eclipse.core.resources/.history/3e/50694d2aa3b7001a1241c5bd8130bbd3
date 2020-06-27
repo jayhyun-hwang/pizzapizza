@@ -1,0 +1,11 @@
+package com.semiproject.topping.model;
+
+public class ToppingDAO {
+
+	private com.semiproject.db.ConnectionPoolMgr pool;
+
+	public ToppingDAO() {
+		pool = new com.semiproject.db.ConnectionPoolMgr();
+	}
+
+}

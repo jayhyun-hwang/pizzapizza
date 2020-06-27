@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+body {
+	font-family: Arial;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+img {
+	vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+	position: relative;
+	padding: 0;
+}
+/* Hide the images by default */
+.mySlides {
+	display: none;
+	height: auto;
+}
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+	cursor: pointer;
+}
+
+/* Next & previous buttons */
+
+/* Position the "next button" to the right */
+.next {
+	right: 0;
+	border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+	color: #f2f2f2;
+	font-size: 12px;
+	padding: 8px 12px;
+	position: absolute;
+	top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+	text-align: center;
+	background-color: white;
+	padding: 2px 16px;
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-style: inherit;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* Six columns side by side */
+.column {
+	float: left;
+	width: 25%;
+	border: 3px solid #f55854;
+}
+/* Add a transparency effect for thumnbail images */
+.demo {
+	opacity: 0.6;
+}
+
+.active, .demo:hover {
+	opacity: 1;
+}
+
+.floating {
+	background-color: #f55854;
+	border: white;
+	position: fixed;
+	right: 5%;
+	top: 40%;
+	margin-right: 0;
+	text-align: center;
+	width: 200px;
+	height: auto;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	z-index: 100;
+	color: #282828;
+}
+
+.floating table{
+	margin: 10% 0 10% 0;
+	
+}
+	
+	
+
+.selcate {
+	border: 3px solid #f55854;
+	border-radius: 5px;
+	margin: 5%;
+}
+
+
+
+.toppingselect {
+	float: left;
+	width: 100%;
+	padding: 5% 20%;
+	display: table;
+	margin: 0;
+	max-width: 100%;
+}
+
+
+table {
+	width: 100%;
+	text-align: center;
+}
+td{
+padding: 2%;
+}
